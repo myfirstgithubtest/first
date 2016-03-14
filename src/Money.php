@@ -2,7 +2,6 @@
 
 namespace Foo;
 
-
 class Money
 {
     private $amount;
