@@ -1,5 +1,10 @@
 <?php
-class MoneyTest extends PHPUnit_Framework_TestCase
+
+namespace Foo\Test;
+
+use Foo\Money;
+
+class MoneyTest extends \PHPUnit_Framework_TestCase
 {
     // ...
 
