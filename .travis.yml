@@ -5,7 +5,7 @@ php:
     - nightly 
 
 before_install:
-    - composer self-update
+    - composer dump-autoload
 
 #install:
 #    - composer install
